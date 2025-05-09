@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://play.google.com/store/apps/details?id=website.leifs.delta">
-    <img src="https://img.shields.io/static/v1?labelColor=56595b&color=97db99&logo=google-play&logoColor=ffffff&label=google play&style=for-the-badge&message=get"/>
+    <img src="https://img.shields.io/static/v1?labelColor=56595b&color=97db99&logo=google-play&logoColor=ffffff&label=google-play&style=for-the-badge&message=get"/>
   </a>
 
   <a href="https://f-droid.org/packages/website.leifs.delta.foss">
